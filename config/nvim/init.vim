@@ -55,6 +55,8 @@ Plug 'itchyny/lightline.vim'
 
 Plug 'liuchengxu/vista.vim'
 
+Plug 'kien/rainbow_parentheses.vim'
+
 call plug#end()
 
 call glaive#Install()
@@ -268,3 +270,9 @@ let g:lightline = {
 "autocmd FileType fzf call feedkeys("i\<Bs>")
 
 autocmd User CocJumpPlaceholder call CocActionAsync('showSignatureHelp')
+
+
+au VimEnter * RainbowParenthesesToggle
+au Syntax * RainbowParenthesesLoadRound
+au Syntax * RainbowParenthesesLoadSquare
+au Syntax * RainbowParenthesesLoadBraces
