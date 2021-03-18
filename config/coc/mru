@@ -1,0 +1,15 @@
+/home/xuebing/Documents/vim-witd/.gitmodules
+/home/xuebing/.config/nvim/init.vim
+/home/xuebing/zhitopilot/docker/scripts/zhito_start.sh
+/home/xuebing/zhitopilot/scripts/zhito_base.sh
+/etc/proxychains4.conf
+/home/xuebing/zhitopilot/compile_commands.json
+/home/xuebing/zhitopilot/zhito_build.sh
+/home/xuebing/zhitopilot/modules/common/status/status.h
+/home/xuebing/zhitopilot/modules/planning/on_lane_planning.cc
+/home/xuebing/zhitopilot/modules/planning/common/smoothers/smoother.h
+/home/xuebing/zhitopilot/modules/planning/on_lane_planning.h
+/home/xuebing/.zshrc
+/home/xuebing/zhitopilot/AutoBuildConf
+/home/xuebing/.config/nvim/coc-settings.json
+/home/xuebing/zhitopilot/modules/planning/navi_planning.cc

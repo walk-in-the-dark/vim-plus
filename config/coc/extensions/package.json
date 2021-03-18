@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "coc-highlight": ">=1.2.7",
+    "coc-json": ">=1.3.4",
+    "coc-lists": ">=1.4.0",
+    "coc-snippets": ">=2.4.1",
+    "coc-tsserver": ">=1.6.8"
+  }
+}

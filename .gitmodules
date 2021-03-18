@@ -1,0 +1,51 @@
+[submodule "vim/plugged/asyncrun.vim"]
+	path = vim/plugged/asyncrun.vim
+	url = https://github.com/skywind3000/asyncrun.vim.git
+[submodule "vim/plugged/vista.vim"]
+	path = vim/plugged/vista.vim
+	url = https://github.com/liuchengxu/vista.vim.git
+[submodule "vim/plugged/lightline.vim"]
+	path = vim/plugged/lightline.vim
+	url = https://github.com/itchyny/lightline.vim.git
+[submodule "vim/plugged/palenight.vim"]
+	path = vim/plugged/palenight.vim
+	url = https://github.com/drewtempelmeyer/palenight.vim.git
+[submodule "vim/plugged/vim-fugitive"]
+	path = vim/plugged/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "vim/plugged/nerdcommenter"]
+	path = vim/plugged/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "vim/plugged/fzf.vim"]
+	path = vim/plugged/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
+[submodule "vim/plugged/fzf"]
+	path = vim/plugged/fzf
+	url = https://github.com/junegunn/fzf.git
+[submodule "vim/plugged/a.vim"]
+	path = vim/plugged/a.vim
+	url = https://github.com/vim-scripts/a.vim.git
+[submodule "vim/plugged/vim-glaive"]
+	path = vim/plugged/vim-glaive
+	url = https://github.com/google/vim-glaive.git
+[submodule "vim/plugged/vim-maktaba"]
+	path = vim/plugged/vim-maktaba
+	url = https://github.com/google/vim-maktaba.git
+[submodule "vim/plugged/vim-codefmt"]
+	path = vim/plugged/vim-codefmt
+	url = https://github.com/google/vim-codefmt.git
+[submodule "vim/plugged/nerdtree-git-plugin"]
+	path = vim/plugged/nerdtree-git-plugin
+	url = https://github.com/yujincheng08/nerdtree-git-plugin.git
+[submodule "vim/plugged/ctrlp.vim"]
+	path = vim/plugged/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "vim/plugged/coc.nvim"]
+	path = vim/plugged/coc.nvim
+	url = https://github.com/neoclide/coc.nvim.git
+[submodule "vim/plugged/vim-nerdtree-tabs"]
+	path = vim/plugged/vim-nerdtree-tabs
+	url = https://github.com/jistr/vim-nerdtree-tabs.git
+[submodule "vim/plugged/nerdtree"]
+	path = vim/plugged/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
